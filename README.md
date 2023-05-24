@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sameem74
 - 👀 I’m interested in Coding & Programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Project
+- 🌱 I’m currently learning Java & Android.
+- 💞 I'm currently solving DSA problems.
+  
 
 <!---
 sameem74/sameem74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
